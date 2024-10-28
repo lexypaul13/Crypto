@@ -1,0 +1,227 @@
+/* 
+  Localizable.strings
+  Crypto
+
+  Created by Virtual Gravity.
+  
+*/
+
+"home" = "hogar";
+
+"wallet" = "billetera";
+
+"market" = "mercado";
+
+"setting" = "configuración";
+
+"Available Balance" = "Balance Disponible";
+
+"Coin Lists" = "Listas de Monedas";
+
+"Trending Coins" = "Monedas de tendencia";
+
+"Dashboard" = "Tablero de mandos";
+
+"View all" = "Ver todos";
+
+"Coins" = "Monedas";
+
+"Send" = "Enviar";
+
+"Receive" = "Recibir";
+
+"Swap" = "Canje";
+
+"Total Market Cap" = "Capitalización de mercado total";
+
+"WatchList" = "Lista de seguimiento";
+
+"All" = "Todo";
+
+"Market Cap" = "Capitalización de mercado";
+
+"Price" = "Precio";
+
+"24Hr Change" = "Cambio 24H";
+
+"Market" = "Mercado";
+
+"My Wallets" = "Mis Billeteras";
+
+"My Contacts" = "Mis Contactos";
+
+"Others" = "Otros";
+
+"History" = "Historia";
+
+"Scan Qr Code" = "Escanear código QR";
+
+"Notification" = "Notificación";
+
+"Security" = "Seguridad";
+
+"Appearance" = "Apariencia";
+
+"Logout" = "Cerrar sesión";
+
+"Settings" = "Ajustes";
+
+"Language" = "Idioma";
+
+"Copied" = "Copiada";
+
+"Cancel" = "Cancelar";
+
+"Copy to Clipboard" = "Copiar al Portapapeles";
+
+"Open in Browser" = "Abierta en el navegador";
+
+"Transaction History" = "Historial de transacciones";
+
+"Choose Token" = "Elegir token";
+
+"Recipient Address" = "Dirección del destinatario";
+
+"Amount" = "Cantidad";
+
+"Save recipient" = "Guardar destinatario";
+
+"Recipient Name" = "Nombre del destinatario";
+
+"Contacts" = "Contactos";
+
+"System" = "Sistema";
+
+"Announcements" = "Avisos";
+
+"Campaigns" = "Campañas";
+
+"Notifications" = "Notificaciones";
+
+"Enter a new password" = "Introduzca una nueva contraseña";
+
+"Please re-entry your passcode" = "Por favor, vuelva a introducir su código de acceso";
+
+"Set Passcode" = "Establecer contraseña";
+
+"Point your camerathe QR Code" = "Apunta tu cámara al código QR";
+
+"Please enable access to camera before scanning." = "Habilite el acceso a la cámara antes de escanear.";
+
+"View More" = "Ver más";
+
+"Search currency" = "Moneda de búsqueda";
+
+"Tokens" = "Fichas";
+
+"Add Favorite" = "Agregar favorito";
+
+"Pay" = "Pagar";
+
+"From" = "Desde";
+
+"Exchange Rate" = "Tipo de cambio";
+
+"Swap now" = "Cambiar ahora";
+
+"Swap Token" = "Ficha de intercambio";
+
+"Assets" = "Activos";
+
+"Enter Amount" = "Ingrese el monto";
+
+"Search Asset" = "Buscar activo";
+
+"Add/Hide Tokens" = "Añadir/Ocultar fichas";
+
+"Today" = "Hoy";
+
+"Previous" = "Previo";
+
+"Send Successfully" = "Enviar con éxito";
+
+"View history" = "Ver historial";
+
+// Receive View
+
+"Scan address to receive payment" = "Escanea la dirección para recibir el pago";
+
+"Or copy your address." = "O copie su dirección.";
+
+"(Only FTM can be received to this address)" = "(Solo se puede recibir FTM en esta dirección)";
+
+"Request Payment" = "Solicitar pago";
+
+"Networks" = "Redes";
+
+"Other Networks" = "Otras Redes";
+
+"Device Settings" = "Idioma proporcionado por la configuración del sistema";
+
+"English" = "Inglés";
+
+"Chinese Simplified" = "China (simplificada)";
+
+"Finnish" = "Finlandés";
+
+"Hindi" = "Hindi";
+
+"Spanish" = "Española";
+
+"search trending coins" = "buscar monedas de tendencia";
+
+"search coins" = "buscar monedas";
+
+"Select Asset" = "Seleccionar Activo";
+
+"Do you want to logout?" = "Quieres cerrar sesión?";
+
+"Get Started" = "Empezar";
+
+"Import Using Phrase" = "Importar usando frase";
+
+"Create a new Wallet" = "Crear una nueva billetera";
+
+"Seed Phrase" = "Frase semilla";
+
+"seedPhrasePlaceholder" = "Escriba su frase inicial aquí...";
+
+"New Password" = "Nueva contraseña";
+
+"Enter Password" = "Introducir la contraseña";
+
+"Password strength" = "Seguridad de la contraseña";
+
+"Confirm Password" = "Confirmar Contraseña";
+
+"Re-enter Password" = "Escriba la contraseña otra vez";
+
+"You agree to these " = "Estás de acuerdo con estos";
+
+"Terms and conditions" = "Términos y condiciones";
+
+"Import and Login" = "Importar e iniciar sesión";
+
+"Learn More" = "Aprende más";
+
+"Create Password" = "Crear contraseña";
+
+"Next" = "Próximo";
+
+"cannotRecoverMessage" = "Entiendo, VG no puede recuperar esta contraseña.";
+
+"splashStartMessage" = "VG Crypto Wallet: almacene, intercambie y controle criptomonedas de forma segura con facilidad. El cifrado de primer nivel garantiza su tranquilidad. Tus activos digitales, tu control.";
+
+"walletSetupMessage" = "Elija importar su billetera existente usando una frase de recuperación o cree una nueva billetera sin esfuerzo.";
+
+"privatePhraseMessage" = "Aquí está su Frase Semilla Privada. Escríbalo en un papel y guárdelo de forma segura.";
+
+"registerWelcomeMessage" = "Bienvenido a VG Crypto Wallet!\nSu registro fue exitoso. Recuerde, su frase semilla es crucial para el acceso y la seguridad de la billetera.";
+
+"Weak" = "Débil";
+
+"Fair" = "Ordinario";
+
+"Good" = "Bien";
+
+"Strong" = "Fuerte";

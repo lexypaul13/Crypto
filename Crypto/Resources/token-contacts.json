@@ -1,0 +1,26 @@
+[
+  {
+    "id": "fd25a0e4-427f-11ee-be56-0242ac120002",
+    "name": "Bitcoin",
+    "imageName": "bitcoin",
+    "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
+  },
+  {
+    "id": "fd25a1de-427f-11ee-be56-0242ac120002",
+    "name": "Ethereum",
+    "imageName": "ethereum",
+    "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+  },
+  {
+    "id": "fd25a58c-427f-11ee-be56-0242ac120002",
+    "name": "Polygon",
+    "imageName": "polygon",
+    "address": "0xA478c2975Ab1Ea89e8196811F51A7B7Ade33eB11"
+  },
+  {
+    "id": "fd25a47c-427f-11ee-be56-0242ac120002",
+    "name": "Fantom Opera",
+    "imageName": "fantom_opera",
+    "address": "0x6D175474E89094C44Da98b954EedeAC495271d09F"
+  }
+]

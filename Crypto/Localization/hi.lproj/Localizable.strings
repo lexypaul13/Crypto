@@ -1,0 +1,228 @@
+/* 
+  Localizable.strings
+  Crypto
+
+  Created by Virtual Gravity.
+  
+*/
+
+"home" = "होम";
+
+"wallet" = "वॉलेट";
+
+"market" = "मार्केट";
+
+"setting" = "सेटिंग";
+
+"Available Balance" = "उपलब्ध शेष";
+
+"Coin Lists" = "सिक्के सूची";
+
+"Trending Coins" = "ट्रेंडिंग सिक्के";
+
+"Dashboard" = "डैशबोर्ड";
+
+"View all" = "सभी देखें";
+
+"Coins" = "सिक्के";
+
+"Send" = "भेजें";
+
+"Receive" = "प्राप्त करें";
+
+"Swap" = "स्वैप";
+
+"Total Market Cap" = "कुल मार्केट कैप";
+
+"WatchList" = "ध्यानसूची";
+
+"All" = "सब";
+
+"Market Cap" = "मार्केट कैप";
+
+"Price" = "मूल्य";
+
+"24Hr Change" = "24 घंटे परिवर्तन";
+
+"Market" = "मार्केट";
+
+"My Wallets" = "मेरा वॉलेट";
+
+"My Contacts" = "मेरे सम्पर्क";
+
+"Others" = "अन्य";
+
+"History" = "हिस्ट्री";
+
+"Scan Qr Code" = "QR कोड स्कैन";
+
+"Notification" = "अधिसूचना";
+
+"Security" = "सिक्योरिटी";
+
+"Appearance" = "रूप";
+
+"Logout" = "लॉग आउट";
+
+"Settings" = "सेटिंग";
+
+"Language" = "भाषा";
+
+"Copied" = "नकल की गई";
+
+"Cancel" = "रद्द करें";
+
+"Copy to Clipboard" = "क्लिपबोर्ड पर कॉपी करें";
+
+"Open in Browser" = "ब्राउज़र में खोलें";
+
+"Transaction History" = "लेनदेन इतिहास";
+
+"Choose Token" = "टोकन चुनें";
+
+"Recipient Address" = "प्राप्तकर्ता का पता";
+
+"Amount" = "रकम";
+
+"Save recipient" = "प्राप्तकर्ता सहेजें";
+
+"Recipient Name" = "प्राप्तकर्ता का नाम";
+
+"Contacts" = "संपर्क";
+
+"System" = "निकाय";
+
+"Announcements" = "घोषणाएं";
+
+"Campaigns" = "अभियान";
+
+"Notifications" = "सूचनाएं";
+
+"Enter a new password" = "नया पासवर्ड दर्ज करें";
+
+"Please re-entry your passcode" = "कृपया अपना पासकोड दोबारा दर्ज करें";
+
+"Set Passcode" = "पासकोड सेट करें";
+
+"Point your camerathe QR Code" = "अपने कैमरे को QR कोड पर इंगित करें";
+
+"Please enable access to camera before scanning." = "कृपया स्कैनिंग से पहले कैमरे तक पहुंच सक्षम करें।";
+
+"View More" = "और देखें";
+
+"Search currency" = "मुद्रा खोजें";
+
+"Tokens" = "टोकन";
+
+"Add Favorite" = "पसंदीदा जोड़ें";
+
+"Pay" = "भुगतान करें";
+
+"From" = "से";
+
+"Exchange Rate" = "विनिमय दर";
+
+"Swap now" = "अभी स्वैप करें";
+
+"Swap Token" = "टोकन स्वैप करें";
+
+"Assets" = "संपत्ति";
+
+"Enter Amount" = "राशि दर्ज करें";
+
+"Search Asset" = "संपत्ति खोजें";
+
+"Add/Hide Tokens" = "टोकन जोड़ें/छिपाएँ";
+
+"Today" = "आज";
+
+"Previous" = "पिछला";
+
+"Send Successfully" = "सफलतापूर्वक भेजा गया";
+
+"View history" = "इतिहास देखें";
+
+// Receive View
+
+"Scan address to receive payment" = "भुगतान प्राप्त करने के लिए पता स्कैन करें";
+
+"Or copy your address." = "या अपना पता कॉपी करें.";
+
+"(Only FTM can be received to this address)" = "(इस पते पर केवल FTM ही प्राप्त किया जा सकता है)";
+
+"Request Payment" = "भुगतान का अनुरोध करें";
+
+"Other Networks" = "अन्य नेटवर्क";
+
+"Networks" = "नेटवर्क";
+
+"Device Settings" = "उपकरण सेटिंग्स";
+
+"English" = "अंग्रेज़ी";
+
+"Chinese Simplified" = "चीनी (सरलीकृत)";
+
+"Finnish" = "फिनिश";
+
+"Hindi" = "हिंदी";
+
+"Spanish" = "स्पैनिश";
+
+"search trending coins" = "ट्रेंडिंग सिक्के खोजें";
+
+"Select Asset" = "संपत्ति चयन करें";
+
+"search coins" = "सिक्के खोजें";
+
+"Do you want to logout?" = "क्या आप लॉगआउट करना चाहते हैं?";
+
+"Get Started" = "आरंभ करें";
+
+"Import Using Phrase" = "वाक्यांश उपयोग करके आयात करें";
+
+"Create a new Wallet" = "एक नया वॉलेट बनाएं";
+
+"Seed Phrase" = "बीज वाक्यांश";
+
+"seedPhrasePlaceholder" = "बीज वाक्यांश टाइप करें...";
+
+"New Password" = "नया पासवर्ड";
+
+"Enter Password" = "पासवर्ड दर्ज करें";
+
+"Password strength" = "पासवर्ड मजबूती";
+
+"Confirm Password" = "पासवर्ड पुष्टि करें";
+
+"Re-enter Password" = "पासवर्ड फिर से दर्ज करें";
+
+"You agree to these " = "आप इनसे सहमत हैं";
+
+"Terms and conditions" = "नियम और शर्तें";
+
+"Import and Login" = "आयात और लॉगिन करें";
+
+"Learn More" = "और अधिक जानें";
+
+"Create Password" = "पासवर्ड बनाएं";
+
+"Next" = "आगे";
+
+"cannotRecoverMessage" = "मैं समझता हूं, VG इस पासवर्ड को पुनर्प्राप्त नहीं कर सकता।";
+
+"splashStartMessage" = "VG Crypto Wallet: आसानी से क्रिप्टोकरेंसी को सुरक्षित रूप से स्टोर, व्यापार, मॉनिटर करें। शीर्ष स्तर का एन्क्रिप्शन मन की शांति सुनिश्चित करता है। आपकी डिजिटल संपत्ति, आपका नियंत्रण।";
+
+"walletSetupMessage" = "पुनर्प्राप्ति वाक्यांश का उपयोग करके अपने मौजूदा वॉलेट को आयात करना चुनें या सहजता से एक नया वॉलेट बनाएं।";
+
+"privatePhraseMessage" = "यहाँ आपका निजी बीज वाक्यांश है. कृपया इसे कागज पर लिख लें और सुरक्षित रूप से संग्रहित कर लें।";
+
+"registerWelcomeMessage" = "VG Crypto Wallet में आपका स्वागत है!\nआपका पंजीकरण सफल है। याद रखें, आपका बीज वाक्यांश वॉलेट पहुंच और सुरक्षा के लिए महत्वपूर्ण है।";
+
+"Weak" = "कमज़ोर";
+
+"Fair" = "साधारण";
+
+"Good" = "अच्छा";
+
+"Strong" = "मज़बूत";
+

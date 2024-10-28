@@ -1,0 +1,62 @@
+[
+  {
+    "id": "fd25a0e4-427f-11ee-be56-0242ac120002",
+    "name": "Bitcoin",
+    "imageName": "bitcoin",
+    "amount": 123456,
+    "added": true,
+    "code": "BTC",
+    "change": 0.8,
+    "price": 1912.89
+  },
+  {
+    "id": "fd25a1de-427f-11ee-be56-0242ac120002",
+    "name": "Ethereum",
+    "imageName": "ethereum",
+    "amount": 133456,
+    "added": false,
+    "code": "ETH",
+    "change": -2.25,
+    "price": 1912.89
+  },
+  {
+    "id": "fd259fc2-427f-11ee-be56-0242ac120002",
+    "name": "Tether",
+    "imageName": "tether",
+    "amount": 123456,
+    "added": false,
+    "code": "USDT",
+    "change": 0.8,
+    "price": 1912.89
+  },
+  {
+    "id": "fd25a382-427f-11ee-be56-0242ac120002",
+    "name": "Binance Coin",
+    "imageName": "binance",
+    "amount": 103456,
+    "added": true,
+    "code": "BNB",
+    "change": 3.8,
+    "price": 1912.89
+  },
+  {
+    "id": "fd25a6e8-427f-11ee-be56-0242ac120002",
+    "name": "Tomb",
+    "imageName": "tomb",
+    "amount": 123,
+    "added": true,
+    "code": "TOMB",
+    "change": 2.8,
+    "price": 1322.89
+  },
+  {
+    "id": "fd25a47c-427f-11ee-be56-0242ac120002",
+    "name": "Fantom",
+    "imageName": "fantom_opera",
+    "amount": 0,
+    "added": true,
+    "code": "FTM",
+    "change": -3.8,
+    "price": 1912.9
+  }
+]

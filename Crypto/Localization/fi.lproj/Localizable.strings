@@ -1,0 +1,227 @@
+/* 
+  Localizable.strings
+  Crypto
+
+  Created by Virtual Gravity.
+  
+*/
+
+"home" = "koti";
+
+"wallet" = "lompakko";
+
+"market" = "markkinoida";
+
+"setting" = "asetusta";
+
+"Available Balance" = "Käytettävissä oleva saldo";
+
+"Coin Lists" = "Kolikon listat";
+
+"Trending Coins" = "Trendaavat kolikot";
+
+"Dashboard" = "Kojelauta";
+
+"View all" = "Katso kaikki";
+
+"Coins" = "Kolikot";
+
+"Send" = "Lähettää";
+
+"Receive" = "Vastaanottaa";
+
+"Swap" = "Vaihda";
+
+"Total Market Cap" = "Markkina-arvo yhteensä";
+
+"WatchList" = "Tarkkailulista";
+
+"All" = "Kaikki";
+
+"Market Cap" = "Markkina Cap";
+
+"Price" = "Hinta";
+
+"24Hr Change" = "24h muutos";
+
+"Market" = "Markkinoida";
+
+"My Wallets" = "Omat lompakot";
+
+"My Contacts" = "Yhteystietoni";
+
+"Others" = "Muut";
+
+"History" = "Historia";
+
+"Scan Qr Code" = "Skannaa QR-koodi";
+
+"Notification" = "Ilmoitukset";
+
+"Security" = "Turvallisuus";
+
+"Appearance" = "Ulkomuoto";
+
+"Logout" = "Kirjautua ulos";
+
+"Settings" = "Asetukset";
+
+"Language" = "Kieli";
+
+"Copied" = "Kieli";
+
+"Cancel" = "Peruuttaa";
+
+"Copy to Clipboard" = "Kopioi leikepöydälle";
+
+"Open in Browser" = "Avaa selaimessa";
+
+"Transaction History" = "Transaktiohistoria";
+
+"Choose Token" = "Valitse Token";
+
+"Recipient Address" = "Vastaanottajan osoite";
+
+"Amount" = "Määrä";
+
+"Save recipient" = "Tallenna vastaanottaja";
+
+"Recipient Name" = "Vastaanottajan Nimi";
+
+"Contacts" = "Kontaktit";
+
+"System" = "Järjestelmä";
+
+"Announcements" = "Ilmoitukset";
+
+"Campaigns" = "Kampanjat";
+
+"Notifications" = "Ilmoitukset";
+
+"Enter a new password" = "Syötä uusi salasana";
+
+"Please re-entry your passcode" = "Anna salasanasi uudelleen";
+
+"Set Passcode" = "Aseta pääsykoodi";
+
+"Point your camerathe QR Code" = "Osoita kamerasi QR-koodiin";
+
+"Please enable access to camera before scanning." = "Salli kameran käyttöoikeus ennen skannaamista.";
+
+"View More" = "Katso lisää";
+
+"Search currency" = "Hae valuutta";
+
+"Tokens" = "Tokenit";
+
+"Add Favorite" = "Lisää suosikki";
+
+"Pay" = "Maksaa";
+
+"From" = "From";
+
+"Exchange Rate" = "Valuuttakurssi";
+
+"Swap now" = "Vaihda nyt";
+
+"Swap Token" = "Vaihda Token";
+
+"Assets" = "Omaisuus";
+
+"Enter Amount" = "Syötä summa";
+
+"Search Asset" = "Hae omaisuutta";
+
+"Add/Hide Tokens" = "Lisää/piilota tokeneita";
+
+"Today" = "Tänään";
+
+"Previous" = "Edellinen";
+
+"Send Successfully" = "Lähetys onnistui";
+
+"View history" = "Näytä historia";
+
+// Receive View
+
+"Scan address to receive payment" = "Skannaa osoite saadaksesi maksun";
+
+"Or copy your address." = "Tai kopioi osoitteesi.";
+
+"(Only FTM can be received to this address)" = "(Tähän osoitteeseen voidaan vastaanottaa vain FTM)";
+
+"Request Payment" = "Pyydä maksua";
+
+"Networks" = "Verkot";
+
+"Other Networks" = "Muut verkot";
+
+"Device Settings" = "Järjestelmäasetusten antama kieli";
+
+"English" = "Englanti";
+
+"Chinese Simplified" = "Kiina (yksinkertaistettu)";
+
+"Finnish" = "Suomi";
+
+"Hindi" = "Hindi";
+
+"Spanish" = "Espanjalainen";
+
+"search trending coins" = "etsi trendikkäitä kolikoita";
+
+"Select Asset" = "Valitse Omaisuus";
+
+"search coins" = "etsi kolikoita";
+
+"Do you want to logout?" = "Haluatko kirjautua ulos?";
+
+"Get Started" = "Aloittaa";
+
+"Import Using Phrase" = "Tuo käyttämällä lausetta";
+
+"Create a new Wallet" = "Luo uusi lompakko";
+
+"Seed Phrase" = "Siemenlause";
+
+"seedPhrasePlaceholder" = "Kirjoita siemenlauseesi tähän...";
+
+"New Password" = "Uusi salasana";
+
+"Enter Password" = "Kirjoita salasana";
+
+"Password strength" = "Salasanan vahvuus";
+
+"Confirm Password" = "Vahvista salasana";
+
+"Re-enter Password" = "Kirjoita salasana uudelleen";
+
+"You agree to these " = "Hyväksyt nämä";
+
+"Terms and conditions" = "Käyttöehdot";
+
+"Import and Login" = "Tuo ja kirjaudu sisään";
+
+"Learn More" = "Lisätietoja";
+
+"Create Password" = "Luo salasana";
+
+"Next" = "Seuraava";
+
+"cannotRecoverMessage" = "Ymmärrän, että VG ei voi palauttaa tätä salasanaa.";
+
+"splashStartMessage" = "VG Crypto Wallet: Säilytä, käytä ja seuraa kryptovaluuttoja turvallisesti helposti. Huippuluokan salaus takaa mielenrauhan. Sinun digitaalinen resurssi, sinun hallintasi.";
+
+"walletSetupMessage" = "Valitse, tuotko olemassa olevan lompakkosi palautuslausekkeen avulla tai luo vaivattomasti uusi lompakko.";
+
+"privatePhraseMessage" = "Tässäyksityinen siemenlauseesi. Kirjoita se ylös paperille ja säilytä se turvallisesti.";
+
+"registerWelcomeMessage" = "Tervetuloa VG Crypto Walletiin!\nRekisteröityminen onnistui. Muista, että siemenlauseesiratkaiseva lompakkokäytön ja turvallisuuden kannalta.";
+
+"Weak" = "Heikko";
+
+"Fair" = "Tavallinen";
+
+"Good" = "Hyvä";
+
+"Strong" = "Vahva";

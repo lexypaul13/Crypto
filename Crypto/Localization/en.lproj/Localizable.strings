@@ -1,0 +1,209 @@
+/* 
+  Localizable.strings
+  Crypto
+
+  Created by Virtual Gravity.
+  
+*/
+
+"home" = "home";
+
+"wallet" = "wallet";
+
+"market" = "market";
+
+"setting" = "setting";
+
+"Available Balance" = "Available Balance";
+
+"Coin Lists" = "Coin Lists";
+
+"Trending Coins" = "Trending Coins";
+
+"Dashboard" = "Dashboard";
+
+"View all" = "View all";
+
+"Coins" = "Coins";
+
+"Send" = "Send";
+
+"Receive" = "Receive";
+
+"Swap" = "Swap";
+
+"Total Market Cap" = "Total Market Cap";
+
+"WatchList" = "WatchList";
+
+"All" = "All";
+
+"Market Cap" = "Market Cap";
+
+"Price" = "Price";
+
+"24Hr Change" = "24Hr Change";
+
+"Market" = "Market";
+
+"My Wallets" = "My Wallets";
+
+"My Contacts" = "My Contacts";
+
+"Others" = "Others";
+
+"History" = "History";
+
+"Scan Qr Code" = "Scan Qr Code";
+
+"Notification" = "Notification";
+
+"Security" = "Security";
+
+"Appearance" = "Appearance";
+
+"Logout" = "Logout";
+
+"Settings" = "Settings";
+
+"Language" = "Language";
+
+"Copied" = "Copied";
+
+"Cancel" = "Cancel";
+
+"Copy to Clipboard" = "Copy to Clipboard";
+
+"Open in Browser" = "Open in Browser";
+
+"Transaction History" = "Transaction History";
+
+"Choose Token" = "Choose Token";
+
+"Recipient Address" = "Recipient Address";
+
+"Amount" = "Amount";
+
+"Save recipient" = "Save recipient";
+
+"Recipient Name" = "Recipient Name";
+
+"Contacts" = "Contacts";
+
+"System" = "System";
+
+"Announcements" = "Announcements";
+
+"Campaigns" = "Campaigns";
+
+"Notifications" = "Notifications";
+
+"Enter a new password" = "Enter a new password";
+
+"Please re-entry your passcode" = "Please re-entry your passcode";
+
+"Set Passcode" = "Set Passcode";
+
+"Point your camerathe QR Code" = "Point your camerathe QR Code";
+
+"Please enable access to camera before scanning." = "Please enable access to camera before scanning.";
+
+"View More" = "View More";
+
+"Search currency" = "Search currency";
+
+"Tokens" = "Tokens";
+
+"Add Favorite" = "Add Favorite";
+
+"Pay" = "Pay";
+
+"From" = "From";
+
+"Exchange Rate" = "Exchange Rate";
+
+"Swap now" = "Swap now";
+
+"Swap Token" = "Swap Token";
+
+"Assets" = "Assets";
+
+"Enter Amount" = "Enter Amount";
+
+"Search Asset" = "Search Asset";
+
+"Add/Hide Tokens" = "Add/Hide Tokens";
+
+"Networks" = "Networks";
+
+"Other Networks" = "Other Networks";
+
+"Device Settings" = "Language provided by system settings";
+
+"English" = "English";
+
+"Chinese Simplified" = "中文（简体）";
+
+"Finnish" = "Suomi";
+
+"Hindi" = "हिंदी";
+
+"Spanish" = "Española";
+
+"search trending coins" = "search trending coins";
+
+"search coins" = "search coins";
+
+"Select Asset" = "Select Asset";
+
+"Do you want to logout?" = "Do you want to logout?";
+
+"Get Started" = "Get Started";
+
+"Import Using Phrase" = "Import Using Phrase";
+
+"Create a new Wallet" = "Create a new Wallet";
+
+"Seed Phrase" = "Seed Phrase";
+
+"seedPhrasePlaceholder" = "Type your seed phrase here...";
+
+"New Password" = "New Password";
+
+"Enter Password" = "Enter Password";
+
+"Password strength" = "Password strength";
+
+"Confirm Password" = "Confirm Password";
+
+"Re-enter Password" = "Re-enter Password";
+
+"You agree to these " = "You agree to these ";
+
+"Terms and conditions" = "Terms and conditions";
+
+"Import and Login" = "Import and Login";
+
+"Learn More" = "Learn More";
+
+"Create Password" = "Create Password";
+
+"Next" = "Next";
+
+"cannotRecoverMessage" = "I understand, VG cannot recover this password.";
+
+"splashStartMessage" = "VG Crypto Wallet: Securely store, trade, monitor cryptocurrencies with ease. Top-notch encryption ensures peace of mind. Your digital assets, your control.";
+
+"walletSetupMessage" = "Choose to import your existing wallet using a recovery phrase or create a new wallet effortlessly.";
+
+"privatePhraseMessage" = "Here is your Private Seed Phrase. Please write it downpaper and store it securely.";
+
+"registerWelcomeMessage" = "Welcome to VG Crypto Wallet!\nYour registration is successful. Remember, your seed phrase is crucial for wallet access and security.";
+
+"Weak" = "Weak";
+
+"Fair" = "Fair";
+
+"Good" = "Good";
+
+"Strong" = "Strong";

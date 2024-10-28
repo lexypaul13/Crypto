@@ -1,0 +1,61 @@
+[
+  {
+    "id": "ceea1e48-4253-11ee-be56-0242ac120002",
+    "title": "Received crypto from others",
+    "description": "You have received a payment of 100 USDT at 2023-07-01 14:28:33 (UTC. You can check your transaction details in Binance Pay homepage via Wallets-Funding-Pay",
+    "date": "2023-08-24 06:03:05 +0000",
+    "is_read": true
+  },
+  {
+    "id": "ceea2096-4253-11ee-be56-0242ac120002",
+    "title": "Received crypto from others",
+    "description": "You have received a payment of 1000 USDT at 2023-07-01 14:28:33 (UTC. You can check your transaction details in Ethereum Pay homepage via Wallets-Funding-Pay",
+    "date": "2023-08-23 06:03:05 +0000",
+    "is_read": true
+  },
+  {
+    "id": "ceea2370-4253-11ee-be56-0242ac120002",
+    "title": "Deposit Successful",
+    "description": "You have deposited 10 USDT at 2023-06-21 13:18:32 (UTC. If you don't recognize this activity, please contact us...",
+    "date": "2023-08-22 06:03:05 +0000"
+  },
+  {
+    "id": "ceea255a-4253-11ee-be56-0242ac120002",
+    "title": "[Important Notice] New Deposit Address Retri.",
+    "description": "Thank you for retrieving your new address under [AMB, ARBITRUM, AVAXC, BSC, CELO, CFXEVM, CHZ, CTXC,",
+    "date": "2023-08-21 06:03:05 +0000"
+  },
+  {
+    "id": "ceea264a-4253-11ee-be56-0242ac120002",
+    "title": "[Important Notice] Your Deposit Address Wi...",
+    "description": "Your deposit address under BB network is about to expire. Please obtain a new deposit address by selecting BB netwo...",
+    "date": "2023-08-20 06:03:05 +0000",
+    "is_read": true
+  },
+  {
+    "id": "ceea2730-4253-11ee-be56-0242ac120002",
+    "title": "Notice of Removal of Trading Pairs - 2023-05...",
+    "description": "This is a general announcement. Products and services referred to here may not be available in your region...",
+    "date": "2023-08-19 06:03:05 +0000"
+  },
+  {
+    "id": "ceea2816-4253-11ee-be56-0242ac120002",
+    "title": "[Important Notice] Your Deposit Address is .",
+    "description": "Your deposit address under BB network is about to expire. Please obtain a new deposit address by selecting BB network.",
+    "date": "2023-08-18 06:03:05 +0000",
+    "is_read": true
+  },
+  {
+    "id": "ceea2cc6-4253-11ee-be56-0242ac120002",
+    "title": "Received crypto from others",
+    "description": "You have received a payment of 10 USDT at 2023-07-01 14:28:33 (UTC. You can check your transaction details in Bitcoin Pay homepage via Wallets-Funding-Pay",
+    "date": "2023-08-17 06:03:05 +0000"
+  },
+  {
+    "id": "ceea2dd4-4253-11ee-be56-0242ac120002",
+    "title": "[Important Notice] Your Deposit Address is .",
+    "description": "To provide better efficiency and security to your funds, some",
+    "date": "2023-08-16 06:03:05 +0000",
+    "is_read": true
+  }
+]

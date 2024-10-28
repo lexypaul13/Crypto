@@ -1,0 +1,227 @@
+/* 
+  Localizable.strings
+  Crypto
+
+  Created by Virtual Gravity.
+  
+*/
+
+"home" = "家";
+
+"wallet" = "钱包";
+
+"market" = "市场";
+
+"setting" = "设置";
+
+"Available Balance" = "可用余额";
+
+"Coin Lists" = "硬币列表";
+
+"Trending Coins" = "热门硬币";
+
+"Dashboard" = "仪表板";
+
+"View all" = "查看全部";
+
+"Coins" = "硬币";
+
+"Send" = "发送";
+
+"Receive" = "收到";
+
+"Swap" = "掉换";
+
+"Total Market Cap" = "合计市值";
+
+"WatchList" = "观察名单";
+
+"All" = "全部";
+
+"Market Cap" = "市值";
+
+"Price" = "价格";
+
+"24Hr Change" = "24小时变更";
+
+"Market" = "市场";
+
+"My Wallets" = "钱包";
+
+"My Contacts" = "我的联系人";
+
+"Others" = "其他的";
+
+"History" = "历史";
+
+"Scan Qr Code" = "扫描二维码";
+
+"Notification" = "公告";
+
+"Security" = "安全";
+
+"Appearance" = "外貌";
+
+"Logout" = "注销";
+
+"Settings" = "设置";
+
+"Language" = "语言";
+
+"Copied" = "已复制";
+
+"Cancel" = "取消";
+
+"Copy to Clipboard" = "复制到剪贴板";
+
+"Open in Browser" = "在浏览器中打开";
+
+"Transaction History" = "交易记录";
+
+"Choose Token" = "选择代币";
+
+"Recipient Address" = "收件人地址";
+
+"Amount" = "数量";
+
+"Save recipient" = "保存收件人";
+
+"Recipient Name" = "收件人姓名";
+
+"Contacts" = "联系方式";
+
+"System" = "系统";
+
+"Announcements" = "公告";
+
+"Campaigns" = "宣传活动";
+
+"Notifications" = "通知";
+
+"Enter a new password" = "输入新密码";
+
+"Please re-entry your passcode" = "请重新输入您的密码";
+
+"Set Passcode" = "设置密码";
+
+"Point your camerathe QR Code" = "将相机对准二维码";
+
+"Please enable access to camera before scanning." = "请在扫描前启用对相机的访问。";
+
+"View More" = "查看更多";
+
+"Search currency" = "搜索货币";
+
+"Tokens" = "代币";
+
+"Add Favorite" = "添加收藏夹";
+
+"Pay" = "支付";
+
+"From" = "来自";
+
+"Exchange Rate" = "汇率";
+
+"Swap now" = "现在交换";
+
+"Swap Token" = "交换令牌";
+
+"Assets" = "资产";
+
+"Enter Amount" = "输入金额";
+
+"Search Asset" = "搜索资产";
+
+"Add/Hide Tokens" = "添加/隐藏令牌";
+
+"Today" = "这天";
+
+"Previous" = "以前的";
+
+"Send Successfully" = "发送成功";
+
+"View history" = "查看历史记录";
+
+// Receive View
+
+"Scan address to receive payment" = "扫描地址即可接收付款";
+
+"Or copy your address." = "或者复制您的地址。";
+
+"(Only FTM can be received to this address)" = "（此地址只能接收FTM）";
+
+"Request Payment" = "请求付款";
+
+"Networks" = "网络";
+
+"Other Networks" = "其他网络";
+
+"Device Settings" = "系统设置提供的语言";
+
+"English" = "英语";
+
+"Chinese Simplified" = "中文（简体）";
+
+"Finnish" = "芬兰语";
+
+"Hindi" = "印地语";
+
+"Spanish" = "西班牙的";
+
+"search trending coins" = "搜索热门硬币";
+
+"search coins" = "搜索硬币";
+
+"Select Asset" = "选择资产";
+
+"Do you want to logout?" = "您想退出吗？";
+
+"Get Started" = "开始使用";
+
+"Import Using Phrase" = "使用短语导入";
+
+"Create a new Wallet" = "创建一个新钱包";
+
+"Seed Phrase" = "种子短语";
+
+"seedPhrasePlaceholder" = "在此输入您的助记词。";
+
+"New Password" = "新密码";
+
+"Enter Password" = "输入密码";
+
+"Password strength" = "密码强度";
+
+"Confirm Password" = "确认密码";
+
+"Re-enter Password" = "重新输入密码";
+
+"You agree to these " = "您同意这些";
+
+"Terms and conditions" = "条款和条件";
+
+"Import and Login" = "导入并登录";
+
+"Learn More" = "了解更多";
+
+"Create Password" = "创建密码";
+
+"Next" = "下一个";
+
+"cannotRecoverMessage" = "据我了解，VG 无法恢复此密码。";
+
+"splashStartMessage" = "VG 加密钱包：轻松安全地存储、交易、监控加密货币。 一流的加密确保安心。 您的数字资产，您掌控。";
+
+"walletSetupMessage" = "选择使用恢复短语导入现有钱包或轻松创建新钱包。";
+
+"privatePhraseMessage" = "这是您的私人种子短语。 请将其写在纸上并妥善保存。";
+
+"registerWelcomeMessage" = "欢迎使用 VG 加密钱包！\n您的注册成功。 请记住，您的助记词对于钱包访问和安全至关重要。";
+
+"Weak" = "虚弱的";
+
+"Fair" = "普通";
+
+"Good" = "不错";
+
+"Strong" = "强的";

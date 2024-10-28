@@ -1,0 +1,65 @@
+[
+  {
+    "id": "fd25a0e4-427f-11ee-be56-0242ac120002",
+    "name": "Bitcoin",
+    "code": "BTC", 
+    "imageName": "bitcoin",
+    "is_favorite": true
+  },
+  {
+    "id": "fd25a1de-427f-11ee-be56-0242ac120002",
+    "name": "Ethereum",
+    "code": "ETH", 
+    "imageName": "ethereum",
+    "is_favorite": true
+  },
+  {
+    "id": "fd25a382-427f-11ee-be56-0242ac120002",
+    "name": "Binance Coin",
+    "code": "BNB", 
+    "imageName": "binance",
+    "is_favorite": true
+  },
+  {
+    "id": "fd25a47c-427f-11ee-be56-0242ac120002",
+    "name": "Fantom Opera",
+    "code": "FTM", 
+    "imageName": "fantom_opera",
+    "is_favorite": false
+  },
+  {
+    "id": "fd25a5ee-427f-11ee-be56-0242ac120002",
+    "name": "L3USD",
+    "code": "L3USD", 
+    "imageName": "l3usd",
+    "is_favorite": true
+  },
+  {
+    "id": "fd25a6e8-427f-11ee-be56-0242ac120002",
+    "name": "Tomb",
+    "code": "TOMB", 
+    "imageName": "tomb",
+    "is_favorite": false
+  },
+  {
+    "id": "fd25aa4e-427f-11ee-be56-0242ac120002",
+    "name": "LIF3",
+    "code": "LIF3", 
+    "imageName": "lif3",
+    "is_favorite": true
+  },
+  {
+    "id": "fd25aba2-427f-11ee-be56-0242ac120002",
+    "name": "LSHARE",
+    "code": "LSHARE", 
+    "imageName": "lshare",
+    "is_favorite": false
+  },
+  {
+    "id": "fd259fc2-427f-11ee-be56-0242ac120002",
+    "name": "Tether",
+    "code": "USDT", 
+    "imageName": "tether",
+    "is_favorite": false
+  }
+]
